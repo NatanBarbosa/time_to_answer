@@ -1,0 +1,5 @@
+fAZER RAILS NÃO GERAR ARQUIVOS DE TESTE
+rails new nome_app -T
+
+Se mudar isso pelo config/application.rb e não funcionar:
+  >spring stop
